@@ -21,3 +21,8 @@ can significantly improve detection, triage, and response outcomes.
 3. Incident response walkthroughs
 
 Each lab focuses on real operational thinking, not theoretical attacks.
+
+## Demo Screenshots
+
+### SOC Alert Triage Automation
+![SOC Alert Triage Output](screenshots/soc_alert_triage_output.png)
