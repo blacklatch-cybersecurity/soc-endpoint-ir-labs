@@ -26,3 +26,6 @@ Each lab focuses on real operational thinking, not theoretical attacks.
 
 ### SOC Alert Triage Automation
 ![SOC Alert Triage Output](screenshots/soc_alert_triage_output.png)
+
+### Ransomware Detection Simulation
+![Ransomware Detection](screenshots/ransomware_detection_output.png)
